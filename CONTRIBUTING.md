@@ -8,4 +8,4 @@ Create a subdirectory for each code example containing:
 
 Update the top-level `README.md` file with a brief description following the standard from other code examples.
 
-*Do not include* sensitive information such as API keys or database credentials.
+*Do not include sensitive information such as API keys or database credentials.*
