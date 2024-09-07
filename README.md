@@ -7,6 +7,14 @@ The example also shows how to rename columns after doing unit conversion and dis
 
 [convert-units](convert-units)
 
+## Join Datasets
+
+This code example demonstrates how to access variables from two different datasets (Chloris and Planet), convert and 
+rename variables, and then perform an outer join to combine data from both datasets into a single new dataset in SQL.
+The example also displays the results stored in the combined dataset in a series of scatter plots.
+
+[join-datasets](join-datasets)
+
 ## Plot Raster Map
 
 This code example outlines different ways to plot data for one variable and one year in a raster map format. 
