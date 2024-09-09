@@ -1,8 +1,6 @@
 # Code Example: Convert Units
 
-This subdirectory contains example code for converting units (from aboveground biomass to aboveground carbon density) 
-and renaming columns using SQL. The code also pulls the data into a pandas dataframe and plots the two columns in a
-scatter plot to visualize the relationship between the variables.
+This subdirectory contains example code for converting units (in this case, from Planet's aboveground carbon density to aboveground biomass) and renaming columns using SQL. The code also demonstrates how to pull this new data into a pandas dataframe.
 
 The example code is included in a Jupyter Notebook (`convert-units.ipynb`).
 
