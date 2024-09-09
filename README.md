@@ -2,16 +2,13 @@
 
 ## Convert Units
 
-This code example demonstrates how to convert from aboveground biomass to aboveground carbon density by multiplying by 0.476 in SQL. 
-The example also shows how to rename columns after doing unit conversion and display the results in a scatter plot.
+This subdirectory contains example code for converting units (from aboveground biomass to aboveground carbon density) and renaming columns using SQL.
 
 [convert-units](convert-units)
 
 ## Join Datasets
 
-This code example demonstrates how to access variables from two different datasets (Chloris and Planet), convert and 
-rename variables, and then perform an outer join to combine data from both datasets into a single new dataset in SQL.
-The example also displays the results stored in the combined dataset in a series of scatter plots.
+This subdirectory contains example code for joining variables from two distinct datasets and returning a single combined dataset. In this example, we access data from Chloris and Planet, rename variables, and then visualize the joined dataset in a series of scatter plots. This example code introduces the concept of using SQL aliases to refer to separate datasets, and demonstrates how to perform an outer join.
 
 [join-datasets](join-datasets)
 
