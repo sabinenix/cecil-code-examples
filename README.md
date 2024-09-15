@@ -6,6 +6,12 @@ This subdirectory contains example code for converting units (from aboveground b
 
 [convert-units](convert-units)
 
+## Create Raster
+
+This subdirectory contains example code for creating a raster file and saving it as a GeoTIFF using xarray and rioxarray. 
+
+[create-raster](create-raster)
+
 ## Join Datasets
 
 This subdirectory contains example code for joining variables from two distinct datasets and returning a single combined dataset. In this example, we access data from Chloris and Planet, rename variables, and then visualize the joined dataset in a series of scatter plots. This example code introduces the concept of using SQL aliases to refer to separate datasets, and demonstrates how to perform an outer join.
