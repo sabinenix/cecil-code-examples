@@ -24,6 +24,7 @@ This code example outlines different ways to plot data for one variable and one 
 The following three methods are demonstrated: 
 1. Plotting directly from a pandas dataframe
 2. Plotting from xarray (directly and via matplotlib)
-3. Plotting on a basemap using cartopy.
+3. Plotting using pixel boundaries and geopandas.
+4. Plotting on a basemap using cartopy.
 
 [plot-raster](plot-raster)
