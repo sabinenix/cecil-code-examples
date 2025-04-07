@@ -4,7 +4,3 @@ This subdirectory contains example code for filtering values out of a dataset (i
 
 The example code is included in a Jupyter Notebook (`filter-values.ipynb`).
 
-## Requirements
-
-The requirements for this code example are included in the `requirements.txt` file.
-
