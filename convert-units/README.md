@@ -4,7 +4,3 @@ This subdirectory contains example code for converting units (in this case, from
 
 The example code is included in a Jupyter Notebook (`convert-units.ipynb`).
 
-## Requirements
-
-The requirements for this code example are included in the `requirements.txt` file.
-
