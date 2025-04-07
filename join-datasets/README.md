@@ -6,7 +6,4 @@ introduces the concept of using SQL aliases to refer to separate datasets, and d
 
 The example code is included in a Jupyter Notebook (`join-datasets.ipynb`).
 
-## Requirements
-
-The requirements for this code example are included in the `requirements.txt` file.
 
