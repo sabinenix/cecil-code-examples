@@ -1,0 +1,10 @@
+cecil==0.0.15
+folium==0.19.4
+geopandas==1.0.1
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+rioxarray==0.18.2
+seaborn==0.13.2
+Shapely==2.1.0
+xarray==2024.11.0

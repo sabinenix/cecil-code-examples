@@ -10,5 +10,6 @@ This subdirectory contains example code for plotting data extracted from the Cec
 
 The example code is included in a Jupyter Notebook (`map-data.ipynb`).
 
-
+## Requirements
+The requirements for the code example are included in `requirements.txt`.
 

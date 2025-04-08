@@ -1,0 +1,8 @@
+branca==0.8.1
+Cartopy==0.24.0
+cecil==0.0.15
+folium==0.19.4
+geopandas==1.0.1
+matplotlib==3.10.1
+pandas==2.2.3
+seaborn==0.13.2

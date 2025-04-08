@@ -1,0 +1,2 @@
+cecil==0.0.15
+matplotlib==3.10.1
