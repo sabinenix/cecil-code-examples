@@ -6,11 +6,11 @@ This subdirectory contains example code for converting units (from aboveground b
 
 [convert-units](convert-units)
 
-## Create Raster
+## Export GeoTIFF
 
 This subdirectory contains example code for creating a raster file and saving it as a GeoTIFF using xarray and rioxarray. 
 
-[create-raster](create-raster)
+[export-geotiff](export-geotiff)
 
 ## Filter Values
 
@@ -24,13 +24,14 @@ This subdirectory contains example code for joining variables from two distinct 
 
 [join-datasets](join-datasets)
 
-## Plot Raster Map
+## Map Data
 
-This code example outlines different ways to plot data for one variable and one year in a raster map format. 
-The following three methods are demonstrated: 
+This code example outlines different ways to plot data for one variable and one year in a map format. 
+The following five methods are demonstrated: 
 1. Plotting directly from a pandas dataframe
-2. Plotting from xarray (directly and via matplotlib)
-3. Plotting using pixel boundaries and geopandas.
-4. Plotting on a basemap using cartopy.
+2. Plotting from xarray (as scatter plot and as heatmap)
+3. Plotting using geopandas with pixel boundaries.
+4. Plotting static map on a basemap using cartopy.
+5. Plotting an interactive map on basemap using folium.
 
-[plot-raster](plot-raster)
+[map-data](map-data)
